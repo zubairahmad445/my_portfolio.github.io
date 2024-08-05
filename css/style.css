@@ -191,7 +191,7 @@ section{
     font-size: 2rem;
     color:var(--green);
     padding-bottom: .5rem;
-    text-align: justify !important;
+    /* text-align: justify !important; */
 }
 
 .home .share{
